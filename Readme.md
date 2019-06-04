@@ -69,7 +69,8 @@ The next important step was to make a strategy to extract patches from an image 
 - For videos find_cars() is used, performance is optimized by storing heatmpas of last 20 frames in a queue(global variable)
 - After adding heatmaps all the frames, a threshold of 5 is used to filter flase positives
 - Results of testing it on image and videos are shared below. 
-- Video Link: https://youtu.be/2n5B8RY2u8I
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2n5B8RY2u8I/0.jpg)](https://www.youtube.com/watch?v=2n5B8RY2u8I)
+
 
 
 ![png](ReadmeImages/output_36_1.png)
